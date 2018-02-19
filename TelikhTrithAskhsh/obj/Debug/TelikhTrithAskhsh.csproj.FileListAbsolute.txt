@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\TelikhTrithAskhsh\TelikhTrithAskhsh\bin\Debug\TelikhTrithAskhsh.exe.config
+C:\Users\user\Desktop\TelikhTrithAskhsh\TelikhTrithAskhsh\bin\Debug\TelikhTrithAskhsh.exe
+C:\Users\user\Desktop\TelikhTrithAskhsh\TelikhTrithAskhsh\bin\Debug\TelikhTrithAskhsh.pdb
+C:\Users\user\Desktop\TelikhTrithAskhsh\TelikhTrithAskhsh\obj\Debug\TelikhTrithAskhsh.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\TelikhTrithAskhsh\TelikhTrithAskhsh\obj\Debug\TelikhTrithAskhsh.Form1.resources
+C:\Users\user\Desktop\TelikhTrithAskhsh\TelikhTrithAskhsh\obj\Debug\TelikhTrithAskhsh.Properties.Resources.resources
+C:\Users\user\Desktop\TelikhTrithAskhsh\TelikhTrithAskhsh\obj\Debug\TelikhTrithAskhsh.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\TelikhTrithAskhsh\TelikhTrithAskhsh\obj\Debug\TelikhTrithAskhsh.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TelikhTrithAskhsh\TelikhTrithAskhsh\obj\Debug\TelikhTrithAskhsh.exe
+C:\Users\user\Desktop\TelikhTrithAskhsh\TelikhTrithAskhsh\obj\Debug\TelikhTrithAskhsh.pdb
+C:\Users\user\Desktop\TelikhTrithAskhsh\TelikhTrithAskhsh\obj\Debug\TelikhTrithAskhsh.Form2.resources
